@@ -3,6 +3,9 @@ FBLA-Website
 
 This repository will be used to host relevant files for creating a website for the Web Design competition of FBLA
 
+---GOOGLE DOCUMENT--- http://bit.ly/Nk2FlO
+
+
 ---DUE DATE---
 Monday, February 24, 2014
 

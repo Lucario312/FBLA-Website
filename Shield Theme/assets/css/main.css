@@ -86,8 +86,8 @@ body {
 body {
     font-family: "Lato";
     font-weight: 300;
-    font-size: 16px;
-    color: #555;
+    font-size: 20px;
+    color: #a48a89;
 
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -133,14 +133,13 @@ border: 0px solid transparent;
 }
 
 
-
 hr {
     position: relative;
     border: none;
 }
 
 hr:before {
-    content: " ";
+    content: "  ";
     position: absolute;
     top: 0;
     left: 25%;
@@ -148,6 +147,7 @@ hr:before {
     height: 2px;
     background: #ccc;
 }
+
 
 a img {
     background: white;
@@ -633,5 +633,44 @@ a:after {
 		font-size: 30px;
 		line-height: 38px;
 	}
+}
+
+/* ==========================================================================
+   Carousel
+   ========================================================================== */
+
+/*
+This is the visible area of you carousel.
+Set a width here to define how much items are visible.
+The width can be either fixed in px or flexible in %.
+Position must be relative!
+*/
+.jcarousel {
+    position: relative;
+    overflow: hidden;
+}
+
+/*
+This is the container of the carousel items.
+You must ensure that the position is relative or absolute and
+that the width is big enough to contain all items.
+*/
+.jcarousel ul {
+    width: 20000em;
+    position: relative;
+
+    /* Optional, required in this case since it's a <ul> element */
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+These are the item elements. jCarousel works best, if the items
+have a fixed width and height (but it's not required).
+*/
+.jcarousel li {
+    /* Required only for block elements like <li>'s */
+    float: left;
 }
 

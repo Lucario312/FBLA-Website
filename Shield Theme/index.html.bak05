@@ -58,13 +58,6 @@
 	<script type="text/javascript" src="engine4//jquery.js"></script>
 <!-- End WOWSlider.com HEAD section -->
 
-
-
-<!-- Start WOWSlider.com HEAD section -->
-	<link rel="stylesheet" type="text/css" href="engine5//style.css" media="screen" />
-	<script type="text/javascript" src="engine5//jquery.js"></script>
-<!-- End WOWSlider.com HEAD section -->
-
 </head>
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
@@ -312,58 +305,87 @@
 					</div>
 				</div><!-- /col -->
 			</div><!-- /row -->
-	
+			<!--Chefs-->
+		<!--	<div class="row">
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/team/team03.jpg" width="60px" height="60px"></p>
+						<h4>Meet Chef</h4>
+					</div>
+					
 
-<!-- Start WOWSlider.com BODY section id=wowslider-container5 -->
-	<div id="wowslider-container5">
+<!-- Start WOWSlider.com BODY section id=wowslider-container4 -->
+	<div id="wowslider-container4">
 	<div class="ws_images"><ul>
-<li><img src="data5/images/04_bosieteaparlor.jpg" alt="" title="" id="wows5_0"/></li>
-<li><img src="data5/images/1801097785_b9890d58f2.jpg" alt="" title="" id="wows5_1"/></li>
-<li><img src="data5/images/3171576410_fedd5b5e14.jpg" alt="" title="" id="wows5_2"/></li>
-<li><img src="data5/images/5598616822_6e8e6ed843_b.jpg" alt="" title="" id="wows5_3"/></li>
-<li><img src="data5/images/5819686811_2cf0853572_b.jpg" alt="" title="" id="wows5_4"/></li>
-<li><img src="data5/images/5819698807_04dd5463da_b.jpg" alt="" title="" id="wows5_5"/></li>
-<li><img src="data5/images/5819850281_09de9ddcd2_b.jpg" alt="" title="" id="wows5_6"/></li>
-<li><img src="data5/images/5820277286_03957d0047_b.jpg" alt="" title="" id="wows5_7"/></li>
-<li><img src="data5/images/5820306510_e51f07ee7c_b.jpg" alt="" title="" id="wows5_8"/></li>
-<li><img src="data5/images/6287840922_ea5a81faf3_b.jpg" alt="" title="" id="wows5_9"/></li>
-<li><img src="data5/images/6934291931_fdb6f1f64f.jpg" alt="" title="" id="wows5_10"/></li>
-<li><img src="data5/images/7983758730_482520f202_b.jpg" alt="" title="" id="wows5_11"/></li>
-<li><img src="data5/images/9580869785_3b7eba68a7_z.jpg" alt="" title="" id="wows5_12"/></li>
-<li><img src="data5/images/orig.jpg" alt="" title="" id="wows5_13"/></li>
-<li><img src="data5/images/savorycrepe.jpg" alt="" title="" id="wows5_14"/></li>
-<li><img src="data5/images/sweetandsavorycrepes1.jpg" alt="" title="" id="wows5_15"/></li>
-<li><img src="data5/images/tumblr_m6ejoj435k1r4i14no1_500.jpg" alt="" title="" id="wows5_16"/></li>
-<li><img src="data5/images/tumblr_mzuls3mwur1rzwv55o1_500.png" alt="" title="" id="wows5_17"/></li>
+<li><img src="data4/images/04_bosieteaparlor.jpg" alt="" title="" id="wows4_0"/></li>
+<li><img src="data4/images/1801097785_b9890d58f2.jpg" alt="" title="" id="wows4_1"/></li>
+<li><img src="data4/images/3171576410_fedd5b5e14.jpg" alt="" title="" id="wows4_2"/></li>
+<li><img src="data4/images/5598616822_6e8e6ed843_b.jpg" alt="" title="" id="wows4_3"/></li>
+<li><img src="data4/images/5819686811_2cf0853572_b.jpg" alt="" title="" id="wows4_4"/></li>
+<li><img src="data4/images/5819698807_04dd5463da_b.jpg" alt="" title="" id="wows4_5"/></li>
+<li><img src="data4/images/5819850281_09de9ddcd2_b.jpg" alt="" title="" id="wows4_6"/></li>
+<li><img src="data4/images/5820277286_03957d0047_b.jpg" alt="" title="" id="wows4_7"/></li>
+<li><img src="data4/images/5820306510_e51f07ee7c_b.jpg" alt="" title="" id="wows4_8"/></li>
+<li><img src="data4/images/6287840922_ea5a81faf3_b.jpg" alt="" title="" id="wows4_9"/></li>
+<li><img src="data4/images/6934291931_fdb6f1f64f.jpg" alt="" title="" id="wows4_10"/></li>
+<li><img src="data4/images/7983758730_482520f202_b.jpg" alt="" title="" id="wows4_11"/></li>
+<li><img src="data4/images/9580869785_3b7eba68a7_z.jpg" alt="" title="" id="wows4_12"/></li>
+<li><img src="data4/images/orig.jpg" alt="" title="" id="wows4_13"/></li>
+<li><img src="data4/images/savorycrepe.jpg" alt="" title="" id="wows4_14"/></li>
+<li><img src="data4/images/sweetandsavorycrepes1.jpg" alt="" title="" id="wows4_15"/></li>
+<li><img src="data4/images/tumblr_m6ejoj435k1r4i14no1_500.jpg" alt="" title="" id="wows4_16"/></li>
+<li><img src="data4/images/tumblr_mzuls3mwur1rzwv55o1_500.png" alt="" title="" id="wows4_17"/></li>
 </ul></div>
 <div class="ws_bullets"><div>
-<a href="#" title=""><img src="data5/tooltips/04_bosieteaparlor.jpg" alt=""/>1</a>
-<a href="#" title=""><img src="data5/tooltips/1801097785_b9890d58f2.jpg" alt=""/>2</a>
-<a href="#" title=""><img src="data5/tooltips/3171576410_fedd5b5e14.jpg" alt=""/>3</a>
-<a href="#" title=""><img src="data5/tooltips/5598616822_6e8e6ed843_b.jpg" alt=""/>4</a>
-<a href="#" title=""><img src="data5/tooltips/5819686811_2cf0853572_b.jpg" alt=""/>5</a>
-<a href="#" title=""><img src="data5/tooltips/5819698807_04dd5463da_b.jpg" alt=""/>6</a>
-<a href="#" title=""><img src="data5/tooltips/5819850281_09de9ddcd2_b.jpg" alt=""/>7</a>
-<a href="#" title=""><img src="data5/tooltips/5820277286_03957d0047_b.jpg" alt=""/>8</a>
-<a href="#" title=""><img src="data5/tooltips/5820306510_e51f07ee7c_b.jpg" alt=""/>9</a>
-<a href="#" title=""><img src="data5/tooltips/6287840922_ea5a81faf3_b.jpg" alt=""/>10</a>
-<a href="#" title=""><img src="data5/tooltips/6934291931_fdb6f1f64f.jpg" alt=""/>11</a>
-<a href="#" title=""><img src="data5/tooltips/7983758730_482520f202_b.jpg" alt=""/>12</a>
-<a href="#" title=""><img src="data5/tooltips/9580869785_3b7eba68a7_z.jpg" alt=""/>13</a>
-<a href="#" title=""><img src="data5/tooltips/orig.jpg" alt=""/>14</a>
-<a href="#" title=""><img src="data5/tooltips/savorycrepe.jpg" alt=""/>15</a>
-<a href="#" title=""><img src="data5/tooltips/sweetandsavorycrepes1.jpg" alt=""/>16</a>
-<a href="#" title=""><img src="data5/tooltips/tumblr_m6ejoj435k1r4i14no1_500.jpg" alt=""/>17</a>
-<a href="#" title=""><img src="data5/tooltips/tumblr_mzuls3mwur1rzwv55o1_500.png" alt=""/>18</a>
+<a href="#" title=""><img src="data4/tooltips/04_bosieteaparlor.jpg" alt=""/>1</a>
+<a href="#" title=""><img src="data4/tooltips/1801097785_b9890d58f2.jpg" alt=""/>2</a>
+<a href="#" title=""><img src="data4/tooltips/3171576410_fedd5b5e14.jpg" alt=""/>3</a>
+<a href="#" title=""><img src="data4/tooltips/5598616822_6e8e6ed843_b.jpg" alt=""/>4</a>
+<a href="#" title=""><img src="data4/tooltips/5819686811_2cf0853572_b.jpg" alt=""/>5</a>
+<a href="#" title=""><img src="data4/tooltips/5819698807_04dd5463da_b.jpg" alt=""/>6</a>
+<a href="#" title=""><img src="data4/tooltips/5819850281_09de9ddcd2_b.jpg" alt=""/>7</a>
+<a href="#" title=""><img src="data4/tooltips/5820277286_03957d0047_b.jpg" alt=""/>8</a>
+<a href="#" title=""><img src="data4/tooltips/5820306510_e51f07ee7c_b.jpg" alt=""/>9</a>
+<a href="#" title=""><img src="data4/tooltips/6287840922_ea5a81faf3_b.jpg" alt=""/>10</a>
+<a href="#" title=""><img src="data4/tooltips/6934291931_fdb6f1f64f.jpg" alt=""/>11</a>
+<a href="#" title=""><img src="data4/tooltips/7983758730_482520f202_b.jpg" alt=""/>12</a>
+<a href="#" title=""><img src="data4/tooltips/9580869785_3b7eba68a7_z.jpg" alt=""/>13</a>
+<a href="#" title=""><img src="data4/tooltips/orig.jpg" alt=""/>14</a>
+<a href="#" title=""><img src="data4/tooltips/savorycrepe.jpg" alt=""/>15</a>
+<a href="#" title=""><img src="data4/tooltips/sweetandsavorycrepes1.jpg" alt=""/>16</a>
+<a href="#" title=""><img src="data4/tooltips/tumblr_m6ejoj435k1r4i14no1_500.jpg" alt=""/>17</a>
+<a href="#" title=""><img src="data4/tooltips/tumblr_mzuls3mwur1rzwv55o1_500.png" alt=""/>18</a>
 </div></div>
 <span class="wsl"><a href="http://wowslider.com">Js Gallery</a> by WOWSlider.com v5.0m</span>
 	<a href="#" class="ws_frame"></a>
 	<div class="ws_shadow"></div>
 	</div>
-	<script type="text/javascript" src="engine5//wowslider.js"></script>
-	<script type="text/javascript" src="engine5//script.js"></script>
+	<script type="text/javascript" src="engine4//wowslider.js"></script>
+	<script type="text/javascript" src="engine4//script.js"></script>
 <!-- End WOWSlider.com BODY section -->
 
+<div class="col-lg-8 blog-content">
+						<h2>Julie Boncoeur Lyon</h2>
+						<p>studied French pastry art for six years at L’Ecole de Le Cordon Bleu in Paris.  During her junior year, she met Martin and the two have been together since. After working at the Ritz for three years, she resided to a quieter setting in Elmwood, NJ. Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff Stuff stuff </p>
+						<br>
+					</div>
+				</div><!-- /col -->
+
+		<!--		<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/team/team04.jpg" width="60px" height="60px"></p>
+						<h4>Meet Chef</h4>
+					</div>
+					<div class="col-lg-8 blog-content">
+						<h2>Martin Lyon</h2>
+						<p>was raised in a French household, and was always surrounded by quality ingredients and cooking.  After attending the Bergen County Academy for Culinary Arts and Hotel Administration, he continued his studies at the Culinary Institute of America. On a summer abroad semester at Le Cordon Bleu Paris Culinary Art School, Martin met Julie Boncoeur. After graduating, the two married and settled in the US.</p>
+						<br>
+					</div>
+				</div><!-- /col -->
+		<!--	</div><!-- /row -->
+			<br>
 		</div><!-- /container -->
 
 

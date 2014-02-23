@@ -86,8 +86,9 @@ body {
 body {
     font-family: "Lato";
     font-weight: 300;
-    font-size: 20px;
-    color: #a48a89;
+    font-size: 21px;
+    color: #372b2b;
+    background-color: #89a4a4;
 
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -238,7 +239,7 @@ blockquote cite:before {
 
 /* Links */
 a {
-    color: #3498db;
+    color: #372b2b;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
